@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mathivanancodes/Python-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Greedy
 |  |
@@ -42,6 +43,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
 |  |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
