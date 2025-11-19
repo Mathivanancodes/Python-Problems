@@ -9,6 +9,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mathivanancodes/Python-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mathivanancodes/Python-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2058-concatenation-of-array](https://github.com/Mathivanancodes/Python-Problems/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mathivanancodes/Python-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Mathivanancodes/Python-Problems/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 ## Stack
 |  |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/2625-increment-submatrices-by-one) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
