@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Mathivanancodes/Python-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Mathivanancodes/Python-Problems/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -166,4 +167,8 @@
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Mathivanancodes/Python-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
