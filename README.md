@@ -10,6 +10,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mathivanancodes/Python-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mathivanancodes/Python-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2058-concatenation-of-array](https://github.com/Mathivanancodes/Python-Problems/tree/master/2058-concatenation-of-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mathivanancodes/Python-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mathivanancodes/Python-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -113,6 +115,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Queue
 |  |
@@ -168,6 +171,7 @@
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/0759-set-intersection-size-at-least-two) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Tree
 |  |
