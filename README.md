@@ -21,6 +21,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Mathivanancodes/Python-Problems/tree/master/3863-power-grid-maintenance) |
 ## String
@@ -87,6 +88,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Mathivanancodes/Python-Problems/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -143,6 +145,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mathivanancodes/Python-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -184,4 +187,5 @@
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
