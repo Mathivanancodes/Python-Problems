@@ -13,6 +13,7 @@
 | [2058-concatenation-of-array](https://github.com/Mathivanancodes/Python-Problems/tree/master/2058-concatenation-of-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/2625-increment-submatrices-by-one) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Queue
 |  |
@@ -189,6 +191,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
 | ------- |
@@ -198,4 +201,8 @@
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
