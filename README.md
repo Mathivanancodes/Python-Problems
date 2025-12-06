@@ -22,6 +22,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mathivanancodes/Python-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -48,6 +49,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mathivanancodes/Python-Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
@@ -133,6 +136,7 @@
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,6 +145,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mathivanancodes/Python-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
 |  |
 | ------- |
@@ -206,4 +211,8 @@
 |  |
 | ------- |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
