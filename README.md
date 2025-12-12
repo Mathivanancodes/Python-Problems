@@ -21,6 +21,7 @@
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mathivanancodes/Python-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Mathivanancodes/Python-Problems/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Mathivanancodes/Python-Problems/tree/master/3531-count-covered-buildings) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -165,6 +166,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mathivanancodes/Python-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mathivanancodes/Python-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Mathivanancodes/Python-Problems/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -175,6 +177,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/Mathivanancodes/Python-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [3433-count-mentions-per-user](https://github.com/Mathivanancodes/Python-Problems/tree/master/3433-count-mentions-per-user) |
 ## Stack
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3433-count-mentions-per-user](https://github.com/Mathivanancodes/Python-Problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Mathivanancodes/Python-Problems/tree/master/3531-count-covered-buildings) |
 ## Tree
 |  |
