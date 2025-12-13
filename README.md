@@ -27,6 +27,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Mathivanancodes/Python-Problems/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Mathivanancodes/Python-Problems/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -44,6 +45,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mathivanancodes/Python-Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mathivanancodes/Python-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/Mathivanancodes/Python-Problems/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [3531-count-covered-buildings](https://github.com/Mathivanancodes/Python-Problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Mathivanancodes/Python-Problems/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Mathivanancodes/Python-Problems/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -211,6 +214,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3433-count-mentions-per-user](https://github.com/Mathivanancodes/Python-Problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Mathivanancodes/Python-Problems/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Mathivanancodes/Python-Problems/tree/master/3606-coupon-code-validator) |
 ## Tree
 |  |
 | ------- |
