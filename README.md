@@ -76,6 +76,7 @@
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mathivanancodes/Python-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/Mathivanancodes/Python-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Mathivanancodes/Python-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mathivanancodes/Python-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Mathivanancodes/Python-Problems/tree/master/3863-power-grid-maintenance) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mathivanancodes/Python-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/Mathivanancodes/Python-Problems/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Mathivanancodes/Python-Problems/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
@@ -135,10 +137,12 @@
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/Mathivanancodes/Python-Problems/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Mathivanancodes/Python-Problems/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/Mathivanancodes/Python-Problems/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Mathivanancodes/Python-Problems/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
@@ -221,6 +225,7 @@
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/0759-set-intersection-size-at-least-two) |
+| [2092-find-all-people-with-secret](https://github.com/Mathivanancodes/Python-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
