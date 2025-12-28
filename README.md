@@ -11,6 +11,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Mathivanancodes/Python-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mathivanancodes/Python-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mathivanancodes/Python-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mathivanancodes/Python-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2058-concatenation-of-array](https://github.com/Mathivanancodes/Python-Problems/tree/master/2058-concatenation-of-array) |
@@ -167,6 +168,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mathivanancodes/Python-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/2625-increment-submatrices-by-one) |
 ## Sorting
