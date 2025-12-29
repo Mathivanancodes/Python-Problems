@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Mathivanancodes/Python-Problems/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mathivanancodes/Python-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mathivanancodes/Python-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -111,6 +112,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mathivanancodes/Python-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -121,6 +123,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mathivanancodes/Python-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -274,4 +277,8 @@
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
