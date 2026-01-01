@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/0066-plus-one) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mathivanancodes/Python-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Mathivanancodes/Python-Problems/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mathivanancodes/Python-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -200,6 +201,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Mathivanancodes/Python-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mathivanancodes/Python-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
