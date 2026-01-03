@@ -70,6 +70,7 @@
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Mathivanancodes/Python-Problems/tree/master/0474-ones-and-zeroes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mathivanancodes/Python-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mathivanancodes/Python-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mathivanancodes/Python-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mathivanancodes/Python-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
