@@ -15,6 +15,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mathivanancodes/Python-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mathivanancodes/Python-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/Mathivanancodes/Python-Problems/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mathivanancodes/Python-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mathivanancodes/Python-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/Mathivanancodes/Python-Problems/tree/master/1975-maximum-matrix-sum) |
@@ -209,6 +210,7 @@
 | [0066-plus-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Mathivanancodes/Python-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/Mathivanancodes/Python-Problems/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mathivanancodes/Python-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mathivanancodes/Python-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Mathivanancodes/Python-Problems/tree/master/1925-count-square-sum-triples) |
