@@ -17,6 +17,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mathivanancodes/Python-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mathivanancodes/Python-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/Mathivanancodes/Python-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/Mathivanancodes/Python-Problems/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mathivanancodes/Python-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -85,6 +86,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/Mathivanancodes/Python-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mathivanancodes/Python-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/Mathivanancodes/Python-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mathivanancodes/Python-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -252,6 +254,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Mathivanancodes/Python-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0840-magic-squares-in-grid](https://github.com/Mathivanancodes/Python-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/Mathivanancodes/Python-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/2625-increment-submatrices-by-one) |
 ## Sorting
