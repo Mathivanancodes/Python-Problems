@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mathivanancodes/Python-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/Mathivanancodes/Python-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Mathivanancodes/Python-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mathivanancodes/Python-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/Mathivanancodes/Python-Problems/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Mathivanancodes/Python-Problems/tree/master/3863-power-grid-maintenance) |
@@ -276,6 +278,7 @@
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Mathivanancodes/Python-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mathivanancodes/Python-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Geometry
@@ -295,4 +298,8 @@
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/0756-pyramid-transition-matrix) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
