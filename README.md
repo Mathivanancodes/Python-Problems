@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mathivanancodes/Python-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mathivanancodes/Python-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mathivanancodes/Python-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mathivanancodes/Python-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/Mathivanancodes/Python-Problems/tree/master/2092-find-all-people-with-secret) |
@@ -137,6 +139,7 @@
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Mathivanancodes/Python-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Mathivanancodes/Python-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mathivanancodes/Python-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mathivanancodes/Python-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mathivanancodes/Python-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -281,6 +284,7 @@
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mathivanancodes/Python-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Mathivanancodes/Python-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -305,6 +309,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mathivanancodes/Python-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mathivanancodes/Python-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
