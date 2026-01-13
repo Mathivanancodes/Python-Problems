@@ -38,6 +38,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mathivanancodes/Python-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Mathivanancodes/Python-Problems/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Mathivanancodes/Python-Problems/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Mathivanancodes/Python-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -197,6 +198,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mathivanancodes/Python-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mathivanancodes/Python-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mathivanancodes/Python-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3453-separate-squares-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3453-separate-squares-i) |
 ## Queue
 |  |
 | ------- |
