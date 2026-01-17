@@ -33,6 +33,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mathivanancodes/Python-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mathivanancodes/Python-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mathivanancodes/Python-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mathivanancodes/Python-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mathivanancodes/Python-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
@@ -237,6 +238,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mathivanancodes/Python-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mathivanancodes/Python-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mathivanancodes/Python-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mathivanancodes/Python-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mathivanancodes/Python-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Mathivanancodes/Python-Problems/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -308,6 +310,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mathivanancodes/Python-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mathivanancodes/Python-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Mathivanancodes/Python-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Two Pointers
