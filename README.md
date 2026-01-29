@@ -40,6 +40,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mathivanancodes/Python-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mathivanancodes/Python-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mathivanancodes/Python-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mathivanancodes/Python-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mathivanancodes/Python-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -83,6 +84,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mathivanancodes/Python-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Mathivanancodes/Python-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mathivanancodes/Python-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mathivanancodes/Python-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mathivanancodes/Python-Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mathivanancodes/Python-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -393,4 +395,12 @@
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mathivanancodes/Python-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mathivanancodes/Python-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
