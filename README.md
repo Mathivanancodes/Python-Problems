@@ -259,6 +259,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mathivanancodes/Python-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mathivanancodes/Python-Problems/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Mathivanancodes/Python-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mathivanancodes/Python-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
